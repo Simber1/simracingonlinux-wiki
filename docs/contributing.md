@@ -2,6 +2,8 @@
 
 This site is built with [MkDocs](https://www.mkdocs.org/) and published via GitHub Pages.
 
+The repository is stored at [https://github.com/SimRacingOnLinux/wiki/](https://github.com/SimRacingOnLinux/wiki/)
+
 ## Local development
 
 Dependencies are managed with [uv](https://docs.astral.sh/uv/). Install it, then run:
